@@ -1,0 +1,6 @@
+projectKey=AwesomeProject
+serverUrl=http://localhost:9999
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9999/dashboard?id=AwesomeProject
+ceTaskId=AW1Ouov0BcMIIICVzOq9
+ceTaskUrl=http://localhost:9999/api/ce/task?id=AW1Ouov0BcMIIICVzOq9

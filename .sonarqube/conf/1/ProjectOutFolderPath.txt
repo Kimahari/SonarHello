@@ -1,0 +1,1 @@
+C:\DeleteMe\Sonarhello\.sonarqube\out\1
